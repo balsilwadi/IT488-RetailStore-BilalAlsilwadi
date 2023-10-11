@@ -1,0 +1,39 @@
+/* Root style for padding */
+.root {
+    padding: 20px;
+}
+
+/* Style for each product box */
+.product-box {
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 8px;
+    alignment: center;
+}
+
+/* Style for product name */
+.product-name {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Style for product price */
+.product-price {
+    color: #009688;
+    font-weight: bold;
+}
+
+/* Style for the add to cart button */
+.add-to-cart-button {
+    background-color: #009688;
+    text-fill: #fff;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.add-to-cart-button:hover {
+    background-color: #00695c;
+}
