@@ -1,4 +1,4 @@
-package app.sprint1;
+package sprint2;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
