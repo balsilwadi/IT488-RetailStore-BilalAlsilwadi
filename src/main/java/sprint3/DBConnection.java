@@ -4,9 +4,9 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class DBConnection {
-    private static final String URL = "jdbc:mysql://localhost/retaildb";
-    private static final String USER = "";
-    private static final String PASS = "";
+    private static final String URL = "jdbc:mysql://localhost/retaildb2";
+    private static final String USER = "balsilwadi";
+    private static final String PASS = "Asqwzx1qaz$";
 
     public static Connection getConnection() {
         try {
